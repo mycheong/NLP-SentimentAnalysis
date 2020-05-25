@@ -10,3 +10,4 @@ https://github.com/mycheong/NLP-SentimentAnalysis/blob/master/Sentiment_MovieRev
 The second one is classification of Amazon's Groceries & Gourmet Food reviews. The data is obtained from http://jmcauley.ucsd.edu/data/amazon/.
 The jupyter notebook can be found here.
 
+https://github.com/mycheong/NLP-SentimentAnalysis/blob/master/sentimentClassif_AmazonGroceriesReview.ipynb
